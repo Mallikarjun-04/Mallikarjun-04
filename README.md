@@ -13,13 +13,13 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`Python` `JavaScript` `SQL`
+`Python` `JavaScript` `PHP`
 
 **Frontend:**  
 `HTML` `CSS` `JavaScript` `React.js`
 
 **Backend & Database:**  
-`Node.js` `Express.js` `MongoDB` `SQLite`
+`Node.js` `Express.js` `MongoDB` `SQL`
 
 **Tools & Platforms:**  
 `Git` `GitHub` `VS Code` `Postman` `Render` `Netlify`

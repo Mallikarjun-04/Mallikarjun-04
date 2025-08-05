@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mallikarjun D V S</h1>
 <h3 align="center">Final-year CSE (Data Science) student | Passionate Full-Stack Developer | DSA Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Building+projects+with+❤️;Let's+connect+and+collaborate!" />
-</p>
 
 - 🎓 Final-year B.Tech student in **Computer Science & Engineering (Data Science)**
 - 💻 Currently building: **Hackathon Registration Portal** with React.js, Node.js & MongoDB

@@ -35,22 +35,9 @@
 
 ---
 
-### 📌 Featured Projects
-
-- 🎯 [Hackathon Registration Portal](https://github.com/Mallikarjun-04/hackathon-portal)  
-  *Modern full-stack portal for managing hackathon registrations*
-
-- 📊 [Employee Record Manager](https://github.com/Mallikarjun-04/Employee-Record-Management)  
-  *CLI-based employee database system using SQLite*
-
-- 📘 [Daily DSA Practice](https://github.com/Mallikarjun-04/daily-DSA)  
-  *Consistent practice of important Data Structures & Algorithms*
-
----
-
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallikarjun-dvs)  
+[![LinkedIn](https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a)  
 
 ---
 

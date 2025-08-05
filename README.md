@@ -1,4 +1,4 @@
-<h1 Hi 👋, I'm Mallikarjun D V S</h1>
+# Hi 👋, I'm Mallikarjun D V S
 <h3>Final-year CSE (Data Science) student | Passionate Full-Stack Developer | DSA Enthusiast</h3>
 
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mallikarjun D V S</h1>
-<h3 align="center">Final-year CSE (Data Science) student | Passionate Full-Stack Developer | DSA Enthusiast</h3>
+<h1 Hi 👋, I'm Mallikarjun D V S</h1>
+<h3>Final-year CSE (Data Science) student | Passionate Full-Stack Developer | DSA Enthusiast</h3>
 
 
 - 🎓 Final-year B.Tech student in **Computer Science & Engineering (Data Science)**
@@ -51,7 +51,6 @@
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mallikarjun-dvs)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Mallikarjun-04)
 
 ---
 

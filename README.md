@@ -13,7 +13,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`Python` `JavaScript` `C++` `SQL`
+`Python` `JavaScript` `SQL`
 
 **Frontend:**  
 `HTML` `CSS` `JavaScript` `React.js`

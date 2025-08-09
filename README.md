@@ -1,44 +1,61 @@
-# Hi 👋, I'm Mallikarjun D V S
-<h3>Final-year CSE (Data Science) student | Passionate Full-Stack Developer | DSA Enthusiast</h3>
+Mallikarjun D V S
+
+  Final-Year B.Tech CSE (Data Science) Student | Full-Stack Developer | DSA Enthusiast
+  
+  
+  
+  
 
 
-- 🎓 Final-year B.Tech student in **Computer Science & Engineering (Data Science)**
-- 💻 Currently building: **Hackathon Registration Portal** with React.js, Node.js & MongoDB
-- 🌱 Learning: **System Design** and mastering **Data Structures & Algorithms**
-- 🚀 Actively contributing to open source and personal side projects
-- 📫 Reach me at: **mallikarjundvs04@gmail.com**
 
----
+👨‍💻 About Me
+I am a dedicated final-year B.Tech student in Computer Science Engineering (Data Science) at Sreyas Institute of Engineering and Technology, Hyderabad (2022–2026, CGPA: 8.15). With a passion for full-stack development and data-driven solutions, I thrive on solving complex problems and contributing to innovative projects. Currently, I am enhancing my expertise in system design and advanced data structures & algorithms.
 
-### 🛠️ Tech Stack
+💻 Current Project: Developing the Hackathon Registration Portal with React.js, Node.js, Express.js, and MongoDB
+🌱 Learning: System Design & Advanced DSA
+🚀 Contributions: Active in open-source and personal projects
+📚 Education: B.Tech CSE (Data Science), Sreyas Institute of Engineering and Technology
+📫 Contact: mallikarjundvs04@gmail.com
 
-**Languages:**  
-`Python` `JavaScript` `PHP`
 
-**Frontend:**  
-`HTML` `CSS` `JavaScript` `React.js`
+🛠️ Technical Skills
+Languages
+Python JavaScript PHP
+Frontend
+HTML CSS React.js
+Backend & Databases
+Node.js Express.js MongoDB MySQL
+Tools & Platforms
+Git GitHub Visual Studio Code Eclipse Postman Render Netlify
+Professional Skills
 
-**Backend & Database:**  
-`Node.js` `Express.js` `MongoDB` `SQL`
+Problem Solving
+Time Management
+Adaptability
+Leadership
 
-**Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Postman` `Render` `Netlify`
 
----
+📊 GitHub Stats
 
-### 📈 GitHub Stats
+  
+  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mallikarjun-04&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=radical" height="180"/>
-</p>
 
----
 
-### 🌐 Let's Connect
+🌐 Professional Network
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a)  
+  
+    
+  
 
----
 
-⭐ *Thanks for visiting! Don't forget to star some repos you like!*
+
+🎯 Achievements
+
+Certificates: Smart Coder DSA (Smart Interviews), Basics of Data Science (Cambridge International Qualifications)
+Internship: Full-Stack Development Intern at IT People Corporation (April 2025 – Present)
+
+
+🙌 Let's Connect
+I’m always open to collaborating on exciting projects or discussing tech innovations. Feel free to reach out via email or connect with me on LinkedIn.  
+Star ⭐ my repos if you find them helpful!

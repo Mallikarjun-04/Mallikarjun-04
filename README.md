@@ -1,121 +1,100 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mallikarjun D V S - Animated Portfolio</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Arial', sans-serif;
-      background: linear-gradient(135deg, #2980b9, #2c3e50);
-      height: 100vh;
-      overflow: hidden;
-      color: #fff;
-      position: relative;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    .background-anim {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: url('https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif') no-repeat center center;
-      background-size: cover;
-      opacity: 0.1;
-      z-index: -1;
-    }
-    .container {
-      text-align: center;
-      animation: fadeIn 2s ease-in;
-      z-index: 1;
-    }
-    h1 {
-      font-size: 3em;
-      margin: 0;
-      color: #fff;
-      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
-    }
-    h2 {
-      font-size: 1.2em;
-      color: #ecf0f1;
-      margin: 10px 0 30px;
-      font-weight: normal;
-    }
-    .buttons {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      flex-wrap: wrap;
-      max-width: 800px;
-      margin: 0 auto;
-    }
-    .button {
-      padding: 8px 20px;
-      background: rgba(255, 255, 255, 0.15);
-      border-radius: 30px;
-      color: #fff;
-      text-decoration: none;
-      font-size: 1em;
-      transition: background 0.3s, transform 0.3s;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    }
-    .button:hover {
-      background: rgba(255, 255, 255, 0.25);
-      transform: translateY(-2px);
-    }
-    .floating {
-      position: absolute;
-      background: rgba(52, 152, 219, 0.5);
-      border-radius: 4px;
-      animation: float 5s ease-in-out infinite, rotate 10s linear infinite;
-      pointer-events: none;
-    }
-    .floating:nth-child(1) { top: 20%; left: 10%; width: 20px; height: 20px; animation-delay: 0s; }
-    .floating:nth-child(2) { top: 40%; right: 15%; width: 30px; height: 30px; animation-delay: 1s; transform: rotate(45deg); }
-    .floating:nth-child(3) { bottom: 30%; left: 25%; width: 25px; height: 25px; animation-delay: 2s; }
-    .floating:nth-child(4) { top: 10%; right: 30%; width: 15px; height: 15px; animation-delay: 3s; transform: rotate(-45deg); }
-    .floating:nth-child(5) { bottom: 20%; right: 10%; width: 35px; height: 35px; animation-delay: 0.5s; }
-    @keyframes float {
-      0%, 100% { transform: translateY(0) rotate(0deg); }
-      50% { transform: translateY(-30px) rotate(180deg); }
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    @keyframes rotate {
-      from { transform: rotate(0deg); }
-      to { transform: rotate(360deg); }
-    }
-  </style>
-</head>
-<body>
-  <div class="background-anim"></div>
-  <div class="container">
-    <h1>Mallikarjun D V S</h1>
-    <h2>Final-Year B.Tech CSE (Data Science) | Full-Stack Developer</h2>
-    <div class="buttons">
-      <a href="#" class="button">Python</a>
-      <a href="#" class="button">JavaScript</a>
-      <a href="#" class="button">React.js</a>
-      <a href="#" class="button">Node.js</a>
-      <a href="#" class="button">MongoDB</a>
-    </div>
-    <div class="buttons" style="margin-top: 20px;">
-      <a href="https://github.com/Mallikarjun-04/Hackathon-Portal" class="button">Hackathon Portal</a>
-      <a href="https://github.com/Mallikarjun-04/daily-DSA" class="button">Daily DSA</a>
-      <a href="mailto:mallikarjundvs04@gmail.com" class="button">Email</a>
-      <a href="https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a" class="button">LinkedIn</a>
-    </div>
-  </div>
-  <div class="floating"></div>
-  <div class="floating"></div>
-  <div class="floating"></div>
-  <div class="floating"></div>
-  <div class="floating"></div>
-</body>
-</html>
+# D. V. S. Mallikarjun
+
+<div align="center">
+  <h1>Final-Year B.Tech CSE (Data Science) Student | Full-Stack Developer | DSA Enthusiast</h1>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="150" />
+  <br>
+  <a href="https://github.com/Mallikarjun-04"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:mallikarjundvs04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<div style="background: url('https://media.giphy.com/media/3o7TKTDnHuO8kOgO0I/giphy.gif') no-repeat center center; background-size: cover; padding: 20px; border-radius: 10px; color: #fff;">
+  I am a dedicated final-year B.Tech student in Computer Science Engineering (Data Science) at **Sreyas Institute of Engineering and Technology, Hyderabad** (2022–2026, CGPA: 8.15). Passionate about full-stack development and data-driven innovation, I excel in solving complex challenges. I am currently deepening my expertise in system design and advanced Data Structures & Algorithms (DSA) through daily practice.
+
+  - 💻 **Current Projects**: 
+    - Developing the **Hackathon Registration Portal** with [React.js, Node.js, Express.js, and MongoDB](https://github.com/Mallikarjun-04/Hackathon-Portal)
+    - Practicing DSA daily via [daily-DSA](https://github.com/Mallikarjun-04/daily-DSA)
+  - 🌱 **Learning**: System Design & Advanced DSA
+  - 🚀 **Contributions**: Active in open-source and personal projects
+  - 📚 **Education**: B.Tech CSE (Data Science), Sreyas Institute
+  - 📫 **Contact**: [mallikarjundvs04@gmail.com](mailto:mallikarjundvs04@gmail.com)
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+`Python` `JavaScript` `PHP`
+
+### Frontend
+`HTML` `CSS` `React.js`
+
+### Backend & Databases
+`Node.js` `Express.js` `MongoDB` `MySQL`
+
+### Tools & Platforms
+`Git` `GitHub` `Visual Studio Code` `Eclipse` `Postman` `Render` `Netlify`
+
+### Professional Skills
+- Problem Solving
+- Time Management
+- Adaptability
+- Leadership
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Mallikarjun-04&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180" /></td>
+      <td>
+        <details>
+          <summary>D. V. S. Mallikarjun's GitHub Stats</summary>
+          <ul>
+            <li>⭐ Total Stars Earned: 0</li>
+            <li>💾 Total Commits (2025): 35 (updating with recent activity)</li>
+            <li>🔄 Total PRs: 0</li>
+            <li>🐛 Total Issues: 0</li>
+            <li>📅 Contributed to (last year): 0</li>
+          </ul>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" /></td>
+    </tr>
+  </table>
+  <p><em>Note: Stats are updating with recent commits to <a href="https://github.com/Mallikarjun-04/daily-DSA">daily-DSA</a>. Check back soon!</em></p>
+</div>
+
+---
+
+## 🌐 Professional Network
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
+## 🎯 Achievements
+
+- **Certificates**: Smart Coder DSA (Smart Interviews), Basics of Data Science (Cambridge International Qualifications)
+- **Internship**: Full-Stack Development Intern at IT People Corporation (April 2025 – Present)
+
+---
+
+## 🙌 Let's Connect
+
+Explore my [Animated Portfolio](https://mallikarjun-04.github.io/Hackathon-Portal/animated-portfolio.html) for a dynamic showcase! I’m eager to collaborate on DSA or full-stack projects. Connect via [email](mailto:mallikarjundvs04@gmail.com) or [LinkedIn](https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a).
+
+**Star ⭐ my repos if you find them valuable!**

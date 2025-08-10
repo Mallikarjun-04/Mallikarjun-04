@@ -59,7 +59,7 @@
           <summary>D. V. S. Mallikarjun's GitHub Stats</summary>
           <ul>
             <li>⭐ Total Stars Earned: 0</li>
-            <li>💾 Total Commits (2025): 35 (updating with recent activity)</li>
+            <li>💾 Total Commits (All Repositories): 35 (updating with recent activity)</li>
             <li>🔄 Total PRs: 0</li>
             <li>🐛 Total Issues: 0</li>
             <li>📅 Contributed to (last year): 0</li>
@@ -71,7 +71,6 @@
       <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" /></td>
     </tr>
   </table>
-  <p><em>Note: Stats are updating with recent commits to <a href="https://github.com/Mallikarjun-04/daily-DSA">daily-DSA</a>. Check back soon!</em></p>
 </div>
 
 ---

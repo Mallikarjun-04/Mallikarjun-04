@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 <div style="background: url('https://media.giphy.com/media/3o7TKTDnHuO8kOgO0I/giphy.gif') no-repeat center center; background-size: cover; padding: 20px; border-radius: 10px; color: #fff;">
-  I am a dedicated final-year B.Tech student in Computer Science Engineering (Data Science) at *Sreyas Institute of Engineering and Technology, Hyderabad* (2022–2026, CGPA: 8.15). Passionate about full-stack development and data-driven innovation, I excel in solving complex challenges. I am currently deepening my expertise in system design and advanced Data Structures & Algorithms (DSA) through daily practice.
+  I am a dedicated final-year B.Tech student in Computer Science Engineering (Data Science) at Sreyas Institute of Engineering and Technology, Hyderabad (2022–2026, CGPA: 8.15). Passionate about full-stack development and data-driven innovation, I excel in solving complex challenges. I am currently deepening my expertise in system design and advanced Data Structures & Algorithms (DSA) through daily practice.
 
   - 💻 **Current Projects**: 
     - Developing the **Hackathon Registration Portal** with [React.js, Node.js, Express.js, and MongoDB](https://github.com/Mallikarjun-04/Hackathon-Portal)

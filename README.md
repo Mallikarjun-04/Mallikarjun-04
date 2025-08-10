@@ -1,4 +1,4 @@
-# Mallikarjun D V S
+# D. V. S. Mallikarjun
 
 <div align="center">
   <h1>Final-Year B.Tech CSE (Data Science) Student | Full-Stack Developer | DSA Enthusiast</h1>
@@ -12,12 +12,11 @@
 
 ## 👨‍💻 About Me
 
-I am a dedicated final-year B.Tech student in Computer Science Engineering (Data Science) at **Sreyas Institute of Engineering and Technology, Hyderabad** (2022–2026, CGPA: 8.15). With a passion for full-stack development and data-driven solutions, I thrive on solving complex problems and contributing to innovative projects. Currently, I am enhancing my expertise in system design and advanced data structures & algorithms.
+I am a dedicated final-year B.Tech student in Computer Science Engineering (Data Science) at **Sreyas Institute of Engineering and Technology, Hyderabad** (2022–2026, CGPA: 8.15). Passionate about full-stack development and data-driven innovation, I excel in solving complex challenges. I am currently deepening my expertise in system design and advanced Data Structures & Algorithms (DSA) through daily practice.
 
 - 💻 **Current Project**: Developing the **Hackathon Registration Portal** with [React.js, Node.js, Express.js, and MongoDB](https://github.com/Mallikarjun-04/Hackathon-Portal)
 - 🌱 **Learning**: System Design & Advanced DSA
-- 🚀 **Contributions**: Active in open-source and personal projects
-- 📚 **Education**: B.Tech CSE (Data Science), Sreyas Institute of Engineering and Technology
+- 🚀 **Contributions**: Active in open-source and personal projects, including [daily-DSA](https://github.com/Mallikarjun-04/daily-DSA)
 - 📫 **Contact**: [mallikarjundvs04@gmail.com](mailto:mallikarjundvs04@gmail.com)
 
 ---
@@ -72,6 +71,6 @@ I am a dedicated final-year B.Tech student in Computer Science Engineering (Data
 
 ## 🙌 Let's Connect
 
-I’m always open to collaborating on exciting projects or discussing tech innovations. Feel free to reach out via [email](mailto:mallikarjundvs04@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a).  
+I’m eager to collaborate on DSA or full-stack projects. Explore my [daily-DSA repository](https://github.com/Mallikarjun-04/daily-DSA) to see my progress! Connect via [email](mailto:mallikarjundvs04@gmail.com) or [LinkedIn](https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a).
 
-**Star ⭐ my repos if you find them helpful!**
+**Star ⭐ my repos if you find them valuable!**

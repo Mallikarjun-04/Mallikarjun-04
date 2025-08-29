@@ -4,7 +4,6 @@
   <h1>Final-Year B.Tech CSE (Data Science) Student | Full-Stack Developer | DSA Enthusiast</h1>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="150" />
   <br>
-  <a href="https://github.com/Mallikarjun-04"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
   <a href="mailto:mallikarjundvs04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
 </div>
 
@@ -87,13 +86,13 @@
 
 ## 🎯 Achievements
 
-- **Certificates**: Smart Coder DSA (Smart Interviews), Basics of Data Science (Cambridge International Qualifications)
+- **Certificates**: Smart Coder DSA (Smart Interviews), OOP (Udemy)
 - **Internship**: Full-Stack Development Intern at IT People Corporation (April 2025 – Present)
 
 ---
 
 ## 🙌 Let's Connect
 
-Explore my [Animated Portfolio](https://mallikarjun-04.github.io/Hackathon-Portal/animated-portfolio.html) for a dynamic showcase! I’m eager to collaborate on DSA or full-stack projects. Connect via [email](mailto:mallikarjundvs04@gmail.com) or [LinkedIn](https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a).
+I’m eager to collaborate on DSA or full-stack projects. Connect via [email](mailto:mallikarjundvs04@gmail.com) or [LinkedIn](https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a).
 
 **Star ⭐ my repos if you find them valuable!**

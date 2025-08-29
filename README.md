@@ -11,17 +11,16 @@
 
 ## 👨‍💻 About Me
 
-<div style="background: url('https://media.giphy.com/media/3o7TKTDnHuO8kOgO0I/giphy.gif') no-repeat center center; background-size: cover; padding: 20px; border-radius: 10px; color: #fff;">
-  I am a dedicated final-year B.Tech student in Computer Science Engineering (Data Science) at Sreyas Institute of Engineering and Technology, Hyderabad (2022–2026, CGPA: 8.15). Passionate about full-stack development and data-driven innovation, I excel in solving complex challenges. I am currently deepening my expertise in system design and advanced Data Structures & Algorithms (DSA) through daily practice.
+I am a dedicated final-year B.Tech student in Computer Science Engineering (Data Science) at **Sreyas Institute of Engineering and Technology, Hyderabad (2022–2026, CGPA: 7.85)**.  
+Passionate about full-stack development and data-driven innovation, I excel in solving complex challenges.  
+Currently deepening expertise in **System Design** and **DSA** through daily practice.
 
-  - 💻 **Current Projects**: 
-    - Developing the **Hackathon Registration Portal** with [React.js, Node.js, Express.js, and MongoDB](https://github.com/Mallikarjun-04/Hackathon-Portal)
-    - Practicing DSA daily via [daily-DSA](https://github.com/Mallikarjun-04/daily-DSA)
-  - 🌱 **Learning**: System Design & Advanced DSA
-  - 🚀 **Contributions**: Active in open-source and personal projects
-  - 📚 **Education**: B.Tech CSE (Data Science), Sreyas Institute
-  - 📫 **Contact**: [mallikarjundvs04@gmail.com](mailto:mallikarjundvs04@gmail.com)
-</div>
+- 💻 **Current Projects**:  
+  - **Hackathon Registration Portal** → [Repo](https://github.com/Mallikarjun-04/Hackathon-Portal)  
+  - **daily-DSA Practice** → [Repo](https://github.com/Mallikarjun-04/daily-DSA)
+- 🌱 **Learning**: System Design & Advanced DSA  
+- 🚀 **Contributions**: Active in open-source & personal projects  
+- 📫 **Contact**: [mallikarjundvs04@gmail.com](mailto:mallikarjundvs04@gmail.com)
 
 ---
 
@@ -37,39 +36,34 @@
 `Node.js` `Express.js` `MongoDB` `MySQL`
 
 ### Tools & Platforms
-`Git` `GitHub` `Visual Studio Code` `Eclipse` `Postman` `Render` `Netlify`
+`Git` `Visual Studio Code` `Eclipse` `Postman` `Render` `Netlify`
 
 ### Professional Skills
-- Problem Solving
-- Time Management
-- Adaptability
-- Leadership
+- Problem Solving  
+- Time Management  
+- Adaptability  
+- Leadership  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Dynamic)
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Mallikarjun-04&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180" /></td>
-      <td>
-        <details>
-          <summary>D. V. S. Mallikarjun's GitHub Stats</summary>
-          <ul>
-            <li>⭐ Total Stars Earned: 0</li>
-            <li>💾 Total Commits (All Repositories): 35 (updating with recent activity)</li>
-            <li>🔄 Total PRs: 0</li>
-            <li>🐛 Total Issues: 0</li>
-            <li>📅 Contributed to (last year): 0</li>
-          </ul>
-        </details>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" /></td>
-    </tr>
-  </table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mallikarjun-04&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mallikarjun-04&theme=dracula&hide_border=true" alt="GitHub Streak" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mallikarjun-04&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -86,13 +80,16 @@
 
 ## 🎯 Achievements
 
-- **Certificates**: Smart Coder DSA (Smart Interviews), OOP (Udemy)
-- **Internship**: Full-Stack Development Intern at IT People Corporation (April 2025 – Present)
+- **Certificates**: Smart Coder DSA (Smart Interviews), Basics of Data Science (Cambridge International Qualifications)  
+- **Internship**: Full-Stack Development Intern at IT People Corporation (April 2025 – Present)  
 
 ---
 
 ## 🙌 Let's Connect
 
-I’m eager to collaborate on DSA or full-stack projects. Connect via [email](mailto:mallikarjundvs04@gmail.com) or [LinkedIn](https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a).
+I’m eager to collaborate on **DSA or Full-Stack Projects**.  
 
-**Star ⭐ my repos if you find them valuable!**
+📩 Reach me at [email](mailto:mallikarjundvs04@gmail.com) or [LinkedIn](https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a).  
+
+**⭐ Star my repos if you find them valuable!**
+

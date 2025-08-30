@@ -60,16 +60,6 @@ Currently deepening expertise in **System Design** and **DSA** through daily pra
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mallikarjun-04&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
 ## 🌐 Professional Network
 
 <div align="center">

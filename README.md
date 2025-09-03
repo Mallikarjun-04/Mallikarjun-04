@@ -58,20 +58,8 @@ Currently deepening expertise in **System Design** and **DSA** through daily pra
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mallikarjun-04&show_icons=true&theme=dracula&hide_border=true"
-    alt="GitHub Stats"
-    height="180"
-  />
-
-  <!-- ✅ Fixed: Markdown embed for streak so it always works -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Mallikarjun-04&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true"
-    alt="Top Languages"
-    height="180"
-  />
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mallikarjun-04&show_icons=true&theme=dracula&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Mallikarjun-04&theme=dracula&hide_border=true)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true) |
+|---|---|---|
 
 </div>
 

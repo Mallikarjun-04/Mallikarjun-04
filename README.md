@@ -52,7 +52,7 @@ Currently deepening expertise in **System Design** and **DSA** through daily pra
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mallikarjun-04&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mallikarjun-04&theme=dracula&hide_border=true" alt="GitHub Streak" height="180" />
+<img src="https://streak-stats.demolab.com/?user=Mallikarjun-04&theme=dracula&hide_border=true" alt="GitHub Streak" height="180" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
 

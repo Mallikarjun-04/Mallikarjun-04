@@ -64,12 +64,8 @@ Currently deepening expertise in **System Design** and **DSA** through daily pra
     height="180"
   />
 
-  <!-- Fixed: use Vercel mirror for streak stats -->
-  <img
-    src="https://streak-stats.demolab.com/?user=Mallikarjun-04&theme=dracula&hide_border=true"
-    alt="GitHub Streak"
-    height="180"
-  />
+  <!-- ✅ Fixed: Markdown embed for streak so it always works -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Mallikarjun-04&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true"

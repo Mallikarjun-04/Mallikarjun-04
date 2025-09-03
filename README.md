@@ -2,9 +2,17 @@
 
 <div align="center">
   <h1>Final-Year B.Tech CSE (Data Science) Student | Full-Stack Developer | DSA Enthusiast</h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="150" />
-  <br>
-  <a href="mailto:mallikarjundvs04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true"
+    alt="Top Languages"
+    height="150"
+  />
+  <br />
+
+  <a href="mailto:mallikarjundvs04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
@@ -50,11 +58,24 @@ Currently deepening expertise in **System Design** and **DSA** through daily pra
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mallikarjun-04&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mallikarjun-04&show_icons=true&theme=dracula&hide_border=true"
+    alt="GitHub Stats"
+    height="180"
+  />
 
-<img src="https://streak-stats.demolab.com/?user=Mallikarjun-04&theme=dracula&hide_border=true" alt="GitHub Streak" height="180" />
+  <!-- Fixed: use Vercel mirror for streak stats -->
+  <img
+    src="https://streak-stats.demolab.com/?user=Mallikarjun-04&theme=dracula&hide_border=true"
+    alt="GitHub Streak"
+    height="180"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallikarjun-04&layout=compact&theme=dracula&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
 
 </div>
 
@@ -64,7 +85,7 @@ Currently deepening expertise in **System Design** and **DSA** through daily pra
 
 <div align="center">
   <a href="https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -84,4 +105,3 @@ I’m eager to collaborate on **DSA or Full-Stack Projects**.
 📩 Reach me at [email](mailto:mallikarjundvs04@gmail.com) or [LinkedIn](https://www.linkedin.com/in/d-v-s-mallikarjun-aa775832a).  
 
 **⭐ Star my repos if you find them valuable!**
-
